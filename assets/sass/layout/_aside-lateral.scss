@@ -1,0 +1,59 @@
+.aside{
+    float: right;
+    padding:0.625rem;
+    }   
+
+.list{
+    border-bottom: 0.0625rem solid gray;
+    }
+
+.list__paragraph{
+    margin-bottom: 0.9375rem;      
+    }
+
+.list__paragrapah{
+    margin-bottom:0.9375rem;
+    }
+
+.section-tags{
+    margin-bottom: 0.9375rem;
+    
+&__title{
+    margin-bottom: 0.9375rem;      
+    }
+
+&__link li{
+    color: white;
+    padding:0.1875rem;
+    display:inline;
+    background-color: steelblue;
+    list-style-type: none;
+    margin-bottom:1.25rem;
+    
+    }
+}
+
+.box__tags{
+    border-bottom: 0.0625rem solid gray;
+}
+
+.news-random{
+    padding-top:0.9375rem;
+
+&__title{
+    margin-bottom:0.9375rem;
+}
+
+&__item{
+
+}
+
+&__description{
+    margin-bottom:0.75rem;
+}
+
+&__img{
+    margin-bottom:0.75rem;
+}
+}
+      
